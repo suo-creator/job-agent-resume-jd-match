@@ -1,0 +1,28 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# pycache
+__pycache__/
+*.pyc
+
+# 临时文件
+*.tmp
+*.temp
+
+# streamlit缓存
+.streamlit/cache/
+
+# 数据库、本地数据
+*.db
+data/
+test_files/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 环境变量密钥
+.env
